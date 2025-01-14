@@ -11,13 +11,13 @@ This is a text-based adventure game written in MIPS assembly language. The game 
 ## How to Run
 To run this MIPS program, you will need a MIPS simulator such as SPIM or MARS.
 1. Download and Install a MIPS Simulator:
-  - Download and install SPIM or MARS from the links provided above.
+    - Download and install SPIM or MARS from the links provided above.
 2. Load the Assembly File:
-  - Open the simulator and load the .asm file containing the MIPS code.
+    - Open the simulator and load the .asm file containing the MIPS code.
 3. Assemble and Run:
-  - Assemble the code and run the program within the simulator.
+    - Assemble the code and run the program within the simulator.
 4. Follow On-Screen Instructions:
-  - The game will prompt you with text and choices. Input the corresponding numbers to make your decisions.
+    - The game will prompt you with text and choices. Input the corresponding numbers to make your decisions.
 
 ## Code Structure
 The code is structured into different sections, each corresponding to a specific room or corridor in the game. The main sections include:

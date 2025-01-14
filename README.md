@@ -2,13 +2,25 @@
 ## Overview
 This is a text-based adventure game written in MIPS assembly language. The game takes the player through a series of choices in a dark, mysterious dungeon. The player must navigate through different corridors, make decisions, and interact with various objects and creatures to survive and escape the dungeon.
 
+---
 ## Features
 - Multiple Paths: The game offers multiple corridors and rooms to explore, each with unique challenges and outcomes.
 - Interactive Choices: Players make decisions that affect the outcome of the game.
 - Inventory System: Players can collect and use items such as a dull sword, a potion, and berries.
 - Dynamic Storytelling: The narrative changes based on the player's choices, leading to different endings.
 
-## How to Run
+---
+## Installation:
+1. Clone the repository using the following command:
+   ```
+   git clone https://github.com/Sambilaycord/Corridors.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Corridors
+   ```
+   
+## Get Started
 To run this MIPS program, you will need a MIPS simulator such as SPIM or MARS.
 1. Download and Install a MIPS Simulator:
     - Download and install SPIM or MARS from the links provided above.
@@ -19,6 +31,7 @@ To run this MIPS program, you will need a MIPS simulator such as SPIM or MARS.
 4. Follow On-Screen Instructions:
     - The game will prompt you with text and choices. Input the corresponding numbers to make your decisions.
 
+---
 ## Code Structure
 The code is structured into different sections, each corresponding to a specific room or corridor in the game. The main sections include:
 
@@ -41,11 +54,14 @@ The code is structured into different sections, each corresponding to a specific
 - Poison Berries: Found in the Right Corridor. Can be used to feed the cat.
 - Dead Cat: Obtained by feeding the cat poison berries. Used as a sacrifice.
 
+---
 ## Endings
 The game features multiple endings based on the player's choices. Some endings lead to survival and escape, while others result in the player's demise.
 
+---
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
+---
 ## Acknowledgment
 This project is submitted in partial fulfillment of the requirements for CS222 Computer Architecture and Organization at the University of Science and Technology of Southern Philippines, June 2024.

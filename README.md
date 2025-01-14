@@ -23,7 +23,7 @@ This is a text-based adventure game written in MIPS assembly language. The game 
 ## Get Started
 To run this MIPS program, you will need a MIPS simulator such as SPIM or MARS.
 1. Download and Install a MIPS Simulator:
-    - Download and install SPIM or MARS from the links provided above.
+    - Download and install [MARS](https://dpetersanderson.github.io/download.html).
 2. Load the Assembly File:
     - Open the simulator and load the .asm file containing the MIPS code.
 3. Assemble and Run:
@@ -59,8 +59,9 @@ The code is structured into different sections, each corresponding to a specific
 The game features multiple endings based on the player's choices. Some endings lead to survival and escape, while others result in the player's demise.
 
 ---
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+## Contributors
+- Krystal Bacalso
+- Javier Raut
 
 ---
 ## Acknowledgment
